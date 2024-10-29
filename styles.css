@@ -1,25 +1,41 @@
 .img1 {
   content: url("https://picsum.photos/id/237/200/300");
+	height: 250px;
+	width: 150px;
+	display: inline;
 }
 
 .img2 {
   content: url("https://picsum.photos/seed/picsum/200/300");
+	height: 250px;
+	width: 150px;
+	display: inline;
 }
 
 .img3 {
   content: url("https://picsum.photos/200/300?grayscale");
+	height: 250px;
+	width: 150px;
+	display: inline;
 }
 .img4 {
   content: url("https://picsum.photos/200/300/");
+	height: 250px;
+	width: 150px;
+	display: inline;
 }
 .img5 {
   content: url("https://picsum.photos/200/300.jpg");
+	height: 250px;
+	width: 150px;
+	display: inline;
 }
 
 img {
   margin: 10px;
   border: 5px solid #555;
   width: 10%;
+	
 }
 
 .flex {
